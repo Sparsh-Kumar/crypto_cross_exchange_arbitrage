@@ -10,7 +10,7 @@ This repository is for **research and educational purposes only**. Each folder c
 
 | Folder | Description |
 |--------|-------------|
-| `funding_rate_arb/` | Funding rate arbitrage between perpetual futures exchanges |
+| `cross_exchange_arb/` | Funding rate arbitrage between perpetual futures exchanges |
 
 ## Disclaimer
 
