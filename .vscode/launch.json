@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Funding Rate Arb",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "cross_exchange.main", // Just change this path to debug any other module.
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
+
